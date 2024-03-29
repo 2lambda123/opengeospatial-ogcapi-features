@@ -1,6 +1,6 @@
 == Scope
 
-This document specifies an extension to the <<OAFeat-1,Geospatial API for Features - Part 1: Core>> standard that defines the behavior of a server that supports the ability to present geometry valued properties in a response document in one from a list of supported Coordinates Reference Systems (CRS).  
+This document specifies an extension to the <<OAFeat-1,Geospatial API for Features - Part 1: Core>> standard that defines the behavior of a server that supports the ability to present geometry valued properties in a response document in one from a list of supported Coordinates Reference Systems (CRS).
 
 Each supported CRS is specified by reference using a uniform resource identifier (URI).
 
